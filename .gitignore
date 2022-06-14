@@ -2,3 +2,5 @@
 .idea/*
 __pycache__/*
 *.fbr
+25-users/*
+collected_data/*
