@@ -4,3 +4,7 @@ __pycache__/*
 *.fbr
 25-users/*
 collected_data/*
+collected_labels/*
+labels/*
+test_data/*
+test_labels/*
