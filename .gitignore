@@ -8,3 +8,4 @@ collected_labels/*
 labels/*
 test_data/*
 test_labels/*
+data/*
